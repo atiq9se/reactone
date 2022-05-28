@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactone/static/css/main.573874a3.css",
+    "main.js": "/reactone/static/js/main.63eec0b4.js",
+    "static/media/11.png": "/reactone/static/media/11.64a93fca058070aff272.png",
+    "static/media/1.png": "/reactone/static/media/1.363e4d2df4b08a4d1b62.png",
+    "static/media/portfolio3.png": "/reactone/static/media/portfolio3.ff7941c88c82d9eb20aa.png",
+    "static/media/portfolio2.png": "/reactone/static/media/portfolio2.6c8cfc1f72c319e3ae93.png",
+    "static/media/cv.pdf": "/reactone/static/media/cv.4a89fe89155210d0389a.pdf",
+    "static/media/portfolio1.png": "/reactone/static/media/portfolio1.32fb42d03885df08fd25.png",
+    "static/media/testimonial2.png": "/reactone/static/media/testimonial2.31163be76d6538fa90e7.png",
+    "index.html": "/reactone/index.html",
+    "main.573874a3.css.map": "/reactone/static/css/main.573874a3.css.map",
+    "main.63eec0b4.js.map": "/reactone/static/js/main.63eec0b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.573874a3.css",
+    "static/js/main.63eec0b4.js"
+  ]
+}
